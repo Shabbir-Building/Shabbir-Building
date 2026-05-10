@@ -26,18 +26,8 @@ Attitude, Adaptability, Positive Energy, Teamwork & Collaboration
 ## GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shabbir-Building&theme=github-dark&hide_border=true"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shabbir-Building&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shabbir-Building&theme=github_dark"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shabbir-Building&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shabbir-Building&theme=github_dark"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shabbir-Building&theme=github_dark&utcOffset=6"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shabbir-Building&theme=github-dark&hide_border=true"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shabbir-Building&theme=github_dark"/>
 </p>
 
 <p align="center">
