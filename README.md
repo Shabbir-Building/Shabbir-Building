@@ -32,7 +32,7 @@ Attitude, Adaptability, Positive Energy, Teamwork & Collaboration
 
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabbir-Building&layout=compact&theme=github_dark&hide_border=true"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shabbir-Building&theme=github_dark"/>
+<!-- <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shabbir-Building&theme=github_dark"/> -->
 </p>
 
 <p align="center">
