@@ -1,22 +1,22 @@
-## I build products with
+<b>I build products with</b>
 
-### Language / Framework
-TypeScript • Python • Node.js • React.js • Next.js • React Native (Expo) • FastAPI • NestJS • ExpressJS • LangChain • LangGraph
+<b>Language / Framework:</b><br>
+TypeScript, Python, Node.js, React.js, Next.js, React Native (Expo), FastAPI, NestJS, ExpressJS, LangChain, LangGraph
 
-### AI / LLM Engineering
-Prompt Engineering • LLM Function Calling • AI Agent Workflows • RAG Pipelines • Embeddings & Semantic Search • AI Observability • AI Cost Optimization • Prompt Versioning • Model Fallback Strategy
+<b>AI / LLM Engineering:</b><br>
+Prompt Engineering, LLM Function Calling, AI Agent Workflows, RAG Pipelines, Embeddings & Semantic Search, AI Observability, AI Cost Optimization, Prompt Versioning, Model Fallback Strategy
 
-### Databases / Backend Infrastructure
-MySQL • PostgreSQL • MongoDB • Redis • Pinecone (Vector DB) • Neo4j (Graph DB) • Supabase • Firebase • Prisma • Mongoose • Sequelize • Background Workers • Queue Systems
+<b>Databases / Backend Infrastructure:</b><br>
+MySQL, PostgreSQL, MongoDB, Redis, Pinecone (Vector DB), Neo4j (Graph DB), Supabase, Firebase, Prisma, Mongoose, Sequelize, Background Workers, Queue Systems
 
-### DevOps / Deployment
-Git • GitHub • GitHub Actions • CI/CD • Docker • Linux • Turborepo • Network Security • Dokploy • Cpanel
+<b>DevOps / Deployment:</b><br>
+Git, GitHub, GitHub Actions, CI/CD, Docker, Linux, Turborepo, Network Security, Dokploy, Cpanel
 
-### AI Tools & APIs
-Claude • Cursor • Windsurf • Whisper (Speech-to-Text) • ElevenLabs (Text-to-Speech) • OpenAI API
+<b>AI Tools & APIs:</b><br>
+Claude, Cursor, Windsurf, Whisper (Speech-to-Text), ElevenLabs (Text-to-Speech), OpenAI API
 
-### Frontend / Dev Tools & Libraries
-WebSockets / Realtime Updates • HTML • CSS • Tailwind CSS • Material UI • Shadcn UI • Bootstrap • Redux Toolkit (RTK) • Zustand • Formik • Zod • Axios • JWT • Framer Motion • Jest • Audio Processing • Figma • Jira • Notion
+<b>Frontend / Dev Tools & Libraries:</b><br>
+WebSockets / Realtime Updates, HTML, CSS, Tailwind CSS, Material UI, Shadcn UI, Bootstrap, Redux Toolkit (RTK), Zustand, Formik, Zod, Axios, JWT, Framer Motion, Jest, Audio Processing, Figma, Jira, Notion
 
-### Soft Skills
-Attitude • Adaptability • Positive Energy • Teamwork & Collaboration
+<b>Soft Skills:</b><br>
+Attitude, Adaptability, Positive Energy, Teamwork & Collaboration
