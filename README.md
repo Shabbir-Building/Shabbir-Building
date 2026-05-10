@@ -9,7 +9,7 @@ Prompt Engineering, LLM Function Calling, AI Agent Workflows, RAG Pipelines, Emb
 <b>Databases / Backend Infrastructure:</b><br>
 MySQL, PostgreSQL, MongoDB, Redis, Pinecone (Vector DB), Neo4j (Graph DB), Supabase, Firebase, Prisma, Mongoose, Sequelize, Background Workers, Queue Systems
 
-<b>DevOps / Deployment:</b><br>
+<b>Deployment:</b><br>
 Git, GitHub, GitHub Actions, CI/CD, Docker, Linux, Turborepo, Network Security, Dokploy, Cpanel
 
 <b>AI Tools & APIs:</b><br>
