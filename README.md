@@ -26,14 +26,9 @@ Attitude, Adaptability, Positive Energy, Teamwork & Collaboration
 ## GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shabbir-Building&theme=github-dark"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shabbir-Building&theme=github_dark"/>
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shabbir-Building&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img width="70%" src="https://github-profile-trophy.vercel.app/?username=Shabbir-Building&theme=onedark&no-frame=true&margin-w=15&row=1"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Shabbir-Building&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shabbir-Building&theme=github_dark"/>
 </p>
