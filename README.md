@@ -20,3 +20,45 @@ WebSockets / Realtime Updates, HTML, CSS, Tailwind CSS, Material UI, Shadcn UI, 
 
 <b>Soft Skills:</b><br>
 Attitude, Adaptability, Positive Energy, Teamwork & Collaboration
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shabbir-Building&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shabbir-Building&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabbir-Building&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shabbir-Building&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shabbir-Building&theme=github_dark"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shabbir-Building&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shabbir-Building&theme=github_dark"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shabbir-Building&theme=github_dark&utcOffset=6"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Shabbir-Building&theme=onedark&no-frame=true&margin-w=10&row=1"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Shabbir-Building&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
