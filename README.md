@@ -16,7 +16,7 @@ Git, GitHub, GitHub Actions, CI/CD, Docker, Linux, Turborepo, Network Security, 
 Claude, Cursor, Windsurf, Whisper (Speech-to-Text), ElevenLabs (Text-to-Speech), OpenAI API
 
 <b>Dev Tools & Libraries:</b><br>
-WebSockets / Realtime Updates, HTML, CSS, Tailwind CSS, Material UI, Shadcn UI, Bootstrap, Redux Toolkit (RTK), Zustand, Formik, Zod, Axios, JWT, Framer Motion, Jest, Audio Processing, Figma, Jira, Notion
+WebSockets / Realtime Updates, Audio Processing, HTML, CSS, Tailwind CSS, Material UI, Shadcn UI, Bootstrap, Redux Toolkit (RTK), Zustand, Formik, Zod, Axios, JWT, Framer Motion, Jest, Figma, Jira, Notion
 
 <b>Soft Skills:</b><br>
 Attitude, Adaptability, Positive Energy, Teamwork & Collaboration
