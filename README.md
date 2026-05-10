@@ -1,4 +1,4 @@
-<b>I build products with</b>
+## I build products with</b>
 
 <b>Language / Framework:</b><br>
 TypeScript, Python, Node.js, React.js, Next.js, React Native (Expo), FastAPI, NestJS, ExpressJS, LangChain, LangGraph
