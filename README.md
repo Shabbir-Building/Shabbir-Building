@@ -21,12 +21,10 @@ WebSockets / Realtime Updates, HTML, CSS, Tailwind CSS, Material UI, Shadcn UI, 
 <b>Soft Skills:</b><br>
 Attitude, Adaptability, Positive Energy, Teamwork & Collaboration
 
----
-
 ## GitHub Analytics
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shabbir-Building&theme=github-dark&hide_border=true"/>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shabbir-Building&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
